@@ -1,0 +1,12 @@
+D:\Royss\Proyectos\05.EvaluacionResultado\SharedKernell\SharedKernell\bin\Release\net6.0\SharedKernell.deps.json
+D:\Royss\Proyectos\05.EvaluacionResultado\SharedKernell\SharedKernell\bin\Release\net6.0\SharedKernell.dll
+D:\Royss\Proyectos\05.EvaluacionResultado\SharedKernell\SharedKernell\bin\Release\net6.0\SharedKernell.pdb
+D:\Royss\Proyectos\05.EvaluacionResultado\SharedKernell\SharedKernell\obj\Release\net6.0\SharedKernell.csproj.AssemblyReference.cache
+D:\Royss\Proyectos\05.EvaluacionResultado\SharedKernell\SharedKernell\obj\Release\net6.0\SharedKernell.GeneratedMSBuildEditorConfig.editorconfig
+D:\Royss\Proyectos\05.EvaluacionResultado\SharedKernell\SharedKernell\obj\Release\net6.0\SharedKernell.AssemblyInfoInputs.cache
+D:\Royss\Proyectos\05.EvaluacionResultado\SharedKernell\SharedKernell\obj\Release\net6.0\SharedKernell.AssemblyInfo.cs
+D:\Royss\Proyectos\05.EvaluacionResultado\SharedKernell\SharedKernell\obj\Release\net6.0\SharedKernell.csproj.CoreCompileInputs.cache
+D:\Royss\Proyectos\05.EvaluacionResultado\SharedKernell\SharedKernell\obj\Release\net6.0\SharedKernell.dll
+D:\Royss\Proyectos\05.EvaluacionResultado\SharedKernell\SharedKernell\obj\Release\net6.0\refint\SharedKernell.dll
+D:\Royss\Proyectos\05.EvaluacionResultado\SharedKernell\SharedKernell\obj\Release\net6.0\SharedKernell.pdb
+D:\Royss\Proyectos\05.EvaluacionResultado\SharedKernell\SharedKernell\obj\Release\net6.0\ref\SharedKernell.dll

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RM.SharedKernell.Net6</id>
+    <version>1.0.0</version>
+    <authors>rhmm</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Azure.Storage.Blobs" version="12.13.0" exclude="Build,Analyzers" />
+        <dependency id="DocumentFormat.OpenXml" version="2.17.1" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation" version="11.1.0" exclude="Build,Analyzers" />
+        <dependency id="IFilterTextReader" version="1.7.7" exclude="Build,Analyzers" />
+        <dependency id="MediaTypeMap.Core" version="2.3.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNet.Mvc" version="5.2.9" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="6.0.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Tokens" version="6.21.0" exclude="Build,Analyzers" />
+        <dependency id="WindowsAzure.Storage" version="9.3.3" exclude="Build,Analyzers" />
+        <dependency id="iTextSharp" version="5.5.13.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Royss\Proyectos\05.EvaluacionResultado\SharedKernell\SharedKernell\bin\Debug\net6.0\SharedKernell.dll" target="lib\net6.0\SharedKernell.dll" />
+  </files>
+</package>
