@@ -34,6 +34,12 @@ namespace SharedKernell.Helpers
         public static DateTime GetDatePeru(this DateTime currentDate)
         {
             DateTime currentDatePeru = TimeZoneInfo.ConvertTime(currentDate, GetHourZonePeru());
+            return currentDatePeru.Date;
+        }
+
+        public static DateTime GetDateTimePeru(this DateTime currentDate)
+        {
+            DateTime currentDatePeru = TimeZoneInfo.ConvertTime(currentDate, GetHourZonePeru());
             return currentDatePeru;
         }
 
