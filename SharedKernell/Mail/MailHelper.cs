@@ -29,11 +29,12 @@ namespace SharedKernell.Mail
                     Password = _mailConfig.Password 
                 };
 
+                client.DeliveryMethod = SmtpDeliveryMethod.Network;
                 client.Credentials = credential;
                 client.Host = _mailConfig.Host;
                 client.Port = _mailConfig.Port;
                 client.EnableSsl = _mailConfig.EnableSsl;
-                client.UseDefaultCredentials = true;
+                client.UseDefaultCredentials = false;
 
                 using (var mailMessage = new MailMessage())
                 {
